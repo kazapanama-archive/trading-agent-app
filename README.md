@@ -1,20 +1,20 @@
 # Trading agent app
-!Project was created as proof of concept in «ASAP» mode, and still needs refactoring
+!Project was created as a proof of concept in «ASAP» mode and still needs refactoring
 
 Link to working project: [link](https://trading-agent-app.netlify.app/)
 
 ## About project
 
-This is concept of an app-companion for a trading agent
-Allows to form orders of items from clients, adding, editing and deleting of items, and to display, delete and update already existing items. 
+This is a concept of a companion app for a trading agent.
+It lets the agent form orders of items from clients — add, edit and delete items, and display, update and delete existing ones.
 
 
 
-## What did i learned in the process?
+## What I learned in the process
 
-- Lerned how to setup firebase in react
-- Understood how to use .env in react
-- Learned how to do CRUD operations in firebase/firestore
-- Understood how to use react context
+- Learned how to set up Firebase in React
+- Understood how to use .env in React
+- Learned how to do CRUD operations in Firebase/Firestore
+- Understood how to use React context
 - Learned how to use SASS
-- Got an ok idea how simple e-comerce shops are build 
+- Got a decent idea of how simple e-commerce shops are built
